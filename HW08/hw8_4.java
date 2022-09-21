@@ -7,7 +7,7 @@ class CBox
 }
 
 
-public class J08_04 {
+public class hw8_4 {
 	
 	public static void main(String[] args) {
 		
